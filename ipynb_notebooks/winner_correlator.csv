@@ -1,0 +1,113 @@
+,Counties,Year,winning_candidate,winner_vote_percent
+0,Alameda County,2016,Hillary Clinton,78.7
+1,Alpine County (5 YR),2016,Hillary Clinton,55.5
+2,Amador County (5 YR),2016,Donald Trump,59.1
+3,Butte County,2016,Donald Trump,47.2
+4,Calaveras County (5 YR),2016,Donald Trump,58.4
+5,Colusa County (5 YR),2016,Donald Trump,53.5
+6,Contra Costa County,2016,Hillary Clinton,68.5
+7,Del Norte County (5 YR),2016,Donald Trump,53.7
+8,El Dorado County,2016,Donald Trump,52.6
+9,Fresno County,2016,Hillary Clinton,50.1
+10,"Glenn County, CA",2016,Donald Trump,61.1
+11,"Humboldt County, CA",2016,Hillary Clinton,56.0
+12,"Imperial County, CA",2016,Hillary Clinton,67.9
+13,"Inyo County, CA",2016,Donald Trump,52.5
+14,"Kern County, CA",2016,Donald Trump,53.1
+15,Kings county,2016,Donald Trump,53.3
+16,"Lake County, CA",2016,Hillary Clinton,46.9
+17,"Lassen County, CA",2016,Donald Trump,72.0
+18,"Los Angeles County, CA",2016,Hillary Clinton,71.8
+19,"Madera County, CA",2016,Donald Trump,54.2
+20,"Marin County, CA",2016,Hillary Clinton,78.1
+21,"Mariposa County, CA",2016,Donald Trump,58.4
+22,"Mendocino County, CA",2016,Hillary Clinton,58.9
+23,"Merced County, CA",2016,Hillary Clinton,52.7
+24,"Modoc County, CA",2016,Donald Trump,71.2
+25,"Mono County, CA",2016,Hillary Clinton,52.6
+26,"Monterey County, CA",2016,Hillary Clinton,66.8
+27,"Nevada County, CA",2016,Hillary Clinton,47.4
+28,"Orange County, CA",2016,Hillary Clinton,50.9
+29,"Placer County, CA",2016,Donald Trump,52.0
+30,"Plumas County, CA",2016,Donald Trump,56.0
+31,"Riverside County, CA",2016,Hillary Clinton,49.7
+32,"Sacramento County, CA",2016,Hillary Clinton,58.3
+33,"San Benito County, CA",2016,Hillary Clinton,57.1
+34,"San Bernardino County, CA",2016,Hillary Clinton,52.1
+35,"San Diego County, CA",2016,Hillary Clinton,56.3
+36,"San Joaquin County, CA",2016,Hillary Clinton,54.0
+37,"San Luis Obispo County, CA",2016,Hillary Clinton,49.7
+38,"San Mateo County, CA",2016,Hillary Clinton,75.7
+39,"Santa Barbara County, CA",2016,Hillary Clinton,60.6
+40,"Santa Clara County, CA",2016,Hillary Clinton,73.7
+41,"Santa Cruz County, CA",2016,Hillary Clinton,73.9
+42,"Shasta County, CA",2016,Donald Trump,64.7
+43,"Sierra County, CA ",2016,Donald Trump,57.3
+44,"Siskiyou County, CA",2016,Donald Trump,55.3
+45,"Solano County, CA",2016,Hillary Clinton,61.6
+46,"Sonoma County, CA",2016,Hillary Clinton,69.4
+47,"Stanislaus County, CA",2016,Hillary Clinton,47.4
+48,"Sutter County, CA",2016,Donald Trump,54.2
+49,"Tehama County, CA",2016,Donald Trump,64.8
+50,"Trinity County, CA",2016,Donald Trump,49.5
+51,"Tulare County, CA",2016,Donald Trump,51.9
+52,"Tuolumne County, CA",2016,Donald Trump,57.0
+53,"Ventura County, CA",2016,Hillary Clinton,55.3
+54,"Yolo County, CA",2016,Hillary Clinton,66.7
+55,"Yuba County, CA",2016,Donald Trump,57.3
+56,Alameda County,2012,Barack Obama,78.9
+57,Alpine County (5 YR),2012,Barack Obama,59.6
+58,Amador County (5 YR),2012,Mitt Romney,58.3
+59,Butte County,2012,Mitt Romney,49.0
+60,Calaveras County (5 YR),2012,Mitt Romney,56.8
+61,Colusa County (5 YR),2012,Mitt Romney,59.7
+62,Contra Costa County,2012,Barack Obama,66.4
+63,Del Norte County (5 YR),2012,Mitt Romney,52.6
+64,El Dorado County,2012,Mitt Romney,57.4
+65,Fresno County,2012,Barack Obama,49.9
+66,"Glenn County, CA",2012,Mitt Romney,61.1
+67,"Humboldt County, CA",2012,Barack Obama,60.0
+68,"Imperial County, CA",2012,Barack Obama,65.2
+69,"Inyo County, CA",2012,Mitt Romney,54.0
+70,"Kern County, CA",2012,Mitt Romney,57.2
+71,Kings county,2012,Mitt Romney,56.2
+72,"Lake County, CA",2012,Barack Obama,56.3
+73,"Lassen County, CA",2012,Mitt Romney,68.3
+74,"Los Angeles County, CA",2012,Barack Obama,69.7
+75,"Madera County, CA",2012,Mitt Romney,57.3
+76,"Marin County, CA",2012,Barack Obama,74.3
+77,"Mariposa County, CA",2012,Mitt Romney,57.1
+78,"Mendocino County, CA",2012,Barack Obama,66.2
+79,"Merced County, CA",2012,Barack Obama,53.2
+80,"Modoc County, CA",2012,Mitt Romney,69.7
+81,"Mono County, CA",2012,Barack Obama,52.8
+82,"Monterey County, CA",2012,Barack Obama,67.1
+83,"Nevada County, CA",2012,Mitt Romney,48.4
+84,"Orange County, CA",2012,Mitt Romney,51.9
+85,"Placer County, CA",2012,Mitt Romney,58.3
+86,"Plumas County, CA",2012,Mitt Romney,56.9
+87,"Riverside County, CA",2012,Barack Obama,49.7
+88,"Sacramento County, CA",2012,Barack Obama,58.1
+89,"San Benito County, CA",2012,Barack Obama,59.2
+90,"San Bernardino County, CA",2012,Barack Obama,52.5
+91,"San Diego County, CA",2012,Barack Obama,52.6
+92,"San Joaquin County, CA",2012,Barack Obama,55.8
+93,"San Luis Obispo County, CA",2012,Barack Obama,48.8
+94,"San Mateo County, CA",2012,Barack Obama,72.1
+95,"Santa Barbara County, CA",2012,Barack Obama,57.6
+96,"Santa Clara County, CA",2012,Barack Obama,70.1
+97,"Santa Cruz County, CA",2012,Barack Obama,75.6
+98,"Shasta County, CA",2012,Mitt Romney,63.0
+99,"Sierra County, CA ",2012,Mitt Romney,58.8
+100,"Siskiyou County, CA",2012,Mitt Romney,55.6
+101,"Solano County, CA",2012,Barack Obama,63.5
+102,"Sonoma County, CA",2012,Barack Obama,71.1
+103,"Stanislaus County, CA",2012,Barack Obama,50.0
+104,"Sutter County, CA",2012,Mitt Romney,58.4
+105,"Tehama County, CA",2012,Mitt Romney,62.0
+106,"Trinity County, CA",2012,Mitt Romney,47.9
+107,"Tulare County, CA",2012,Mitt Romney,56.3
+108,"Tuolumne County, CA",2012,Mitt Romney,56.2
+109,"Ventura County, CA",2012,Barack Obama,52.3
+110,"Yolo County, CA",2012,Barack Obama,65.4
+111,"Yuba County, CA",2012,Mitt Romney,57.2

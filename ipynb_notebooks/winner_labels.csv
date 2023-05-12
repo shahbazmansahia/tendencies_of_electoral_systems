@@ -1,0 +1,171 @@
+Unnamed: 0,Counties,Year,winning_candidate,winner_vote_percent,ideological_label
+0,Alameda County,2016,Hillary Clinton,78.7,"Liberal
+Party Affiliation"
+1,Alpine County (5 YR),2016,Hillary Clinton,55.5,"Liberal
+Party Affiliation"
+2,Amador County (5 YR),2016,Donald Trump,59.1,Populist Conservative
+3,Butte County,2016,Donald Trump,47.2,Populist Conservative
+4,Calaveras County (5 YR),2016,Donald Trump,58.4,Populist Conservative
+5,Colusa County (5 YR),2016,Donald Trump,53.5,Populist Conservative
+6,Contra Costa County,2016,Hillary Clinton,68.5,"Liberal
+Party Affiliation"
+7,Del Norte County (5 YR),2016,Donald Trump,53.7,Populist Conservative
+8,El Dorado County,2016,Donald Trump,52.6,Populist Conservative
+9,Fresno County,2016,Hillary Clinton,50.1,"Liberal
+Party Affiliation"
+10,"Glenn County, CA",2016,Donald Trump,61.1,Populist Conservative
+11,"Humboldt County, CA",2016,Hillary Clinton,56.0,"Liberal
+Party Affiliation"
+12,"Imperial County, CA",2016,Hillary Clinton,67.9,"Liberal
+Party Affiliation"
+13,"Inyo County, CA",2016,Donald Trump,52.5,Populist Conservative
+14,"Kern County, CA",2016,Donald Trump,53.1,Populist Conservative
+15,Kings county,2016,Donald Trump,53.3,Populist Conservative
+16,"Lake County, CA",2016,Hillary Clinton,46.9,"Liberal
+Party Affiliation"
+17,"Lassen County, CA",2016,Donald Trump,72.0,Populist Conservative
+18,"Los Angeles County, CA",2016,Hillary Clinton,71.8,"Liberal
+Party Affiliation"
+19,"Madera County, CA",2016,Donald Trump,54.2,Populist Conservative
+20,"Marin County, CA",2016,Hillary Clinton,78.1,"Liberal
+Party Affiliation"
+21,"Mariposa County, CA",2016,Donald Trump,58.4,Populist Conservative
+22,"Mendocino County, CA",2016,Hillary Clinton,58.9,"Liberal
+Party Affiliation"
+23,"Merced County, CA",2016,Hillary Clinton,52.7,"Liberal
+Party Affiliation"
+24,"Modoc County, CA",2016,Donald Trump,71.2,Populist Conservative
+25,"Mono County, CA",2016,Hillary Clinton,52.6,"Liberal
+Party Affiliation"
+26,"Monterey County, CA",2016,Hillary Clinton,66.8,"Liberal
+Party Affiliation"
+27,"Nevada County, CA",2016,Hillary Clinton,47.4,"Liberal
+Party Affiliation"
+28,"Orange County, CA",2016,Hillary Clinton,50.9,"Liberal
+Party Affiliation"
+29,"Placer County, CA",2016,Donald Trump,52.0,Populist Conservative
+30,"Plumas County, CA",2016,Donald Trump,56.0,Populist Conservative
+31,"Riverside County, CA",2016,Hillary Clinton,49.7,"Liberal
+Party Affiliation"
+32,"Sacramento County, CA",2016,Hillary Clinton,58.3,"Liberal
+Party Affiliation"
+33,"San Benito County, CA",2016,Hillary Clinton,57.1,"Liberal
+Party Affiliation"
+34,"San Bernardino County, CA",2016,Hillary Clinton,52.1,"Liberal
+Party Affiliation"
+35,"San Diego County, CA",2016,Hillary Clinton,56.3,"Liberal
+Party Affiliation"
+36,"San Joaquin County, CA",2016,Hillary Clinton,54.0,"Liberal
+Party Affiliation"
+37,"San Luis Obispo County, CA",2016,Hillary Clinton,49.7,"Liberal
+Party Affiliation"
+38,"San Mateo County, CA",2016,Hillary Clinton,75.7,"Liberal
+Party Affiliation"
+39,"Santa Barbara County, CA",2016,Hillary Clinton,60.6,"Liberal
+Party Affiliation"
+40,"Santa Clara County, CA",2016,Hillary Clinton,73.7,"Liberal
+Party Affiliation"
+41,"Santa Cruz County, CA",2016,Hillary Clinton,73.9,"Liberal
+Party Affiliation"
+42,"Shasta County, CA",2016,Donald Trump,64.7,Populist Conservative
+43,"Sierra County, CA ",2016,Donald Trump,57.3,Populist Conservative
+44,"Siskiyou County, CA",2016,Donald Trump,55.3,Populist Conservative
+45,"Solano County, CA",2016,Hillary Clinton,61.6,"Liberal
+Party Affiliation"
+46,"Sonoma County, CA",2016,Hillary Clinton,69.4,"Liberal
+Party Affiliation"
+47,"Stanislaus County, CA",2016,Hillary Clinton,47.4,"Liberal
+Party Affiliation"
+48,"Sutter County, CA",2016,Donald Trump,54.2,Populist Conservative
+49,"Tehama County, CA",2016,Donald Trump,64.8,Populist Conservative
+50,"Trinity County, CA",2016,Donald Trump,49.5,Populist Conservative
+51,"Tulare County, CA",2016,Donald Trump,51.9,Populist Conservative
+52,"Tuolumne County, CA",2016,Donald Trump,57.0,Populist Conservative
+53,"Ventura County, CA",2016,Hillary Clinton,55.3,"Liberal
+Party Affiliation"
+54,"Yolo County, CA",2016,Hillary Clinton,66.7,"Liberal
+Party Affiliation"
+55,"Yuba County, CA",2016,Donald Trump,57.3,Populist Conservative
+56,Alameda County,2012,Barack Obama,78.9,Liberal/Progressive
+57,Alpine County (5 YR),2012,Barack Obama,59.6,Liberal/Progressive
+58,Amador County (5 YR),2012,Mitt Romney,58.3,"Conservative
+Party Affiliation"
+59,Butte County,2012,Mitt Romney,49.0,"Conservative
+Party Affiliation"
+60,Calaveras County (5 YR),2012,Mitt Romney,56.8,"Conservative
+Party Affiliation"
+61,Colusa County (5 YR),2012,Mitt Romney,59.7,"Conservative
+Party Affiliation"
+62,Contra Costa County,2012,Barack Obama,66.4,Liberal/Progressive
+63,Del Norte County (5 YR),2012,Mitt Romney,52.6,"Conservative
+Party Affiliation"
+64,El Dorado County,2012,Mitt Romney,57.4,"Conservative
+Party Affiliation"
+65,Fresno County,2012,Barack Obama,49.9,Liberal/Progressive
+66,"Glenn County, CA",2012,Mitt Romney,61.1,"Conservative
+Party Affiliation"
+67,"Humboldt County, CA",2012,Barack Obama,60.0,Liberal/Progressive
+68,"Imperial County, CA",2012,Barack Obama,65.2,Liberal/Progressive
+69,"Inyo County, CA",2012,Mitt Romney,54.0,"Conservative
+Party Affiliation"
+70,"Kern County, CA",2012,Mitt Romney,57.2,"Conservative
+Party Affiliation"
+71,Kings county,2012,Mitt Romney,56.2,"Conservative
+Party Affiliation"
+72,"Lake County, CA",2012,Barack Obama,56.3,Liberal/Progressive
+73,"Lassen County, CA",2012,Mitt Romney,68.3,"Conservative
+Party Affiliation"
+74,"Los Angeles County, CA",2012,Barack Obama,69.7,Liberal/Progressive
+75,"Madera County, CA",2012,Mitt Romney,57.3,"Conservative
+Party Affiliation"
+76,"Marin County, CA",2012,Barack Obama,74.3,Liberal/Progressive
+77,"Mariposa County, CA",2012,Mitt Romney,57.1,"Conservative
+Party Affiliation"
+78,"Mendocino County, CA",2012,Barack Obama,66.2,Liberal/Progressive
+79,"Merced County, CA",2012,Barack Obama,53.2,Liberal/Progressive
+80,"Modoc County, CA",2012,Mitt Romney,69.7,"Conservative
+Party Affiliation"
+81,"Mono County, CA",2012,Barack Obama,52.8,Liberal/Progressive
+82,"Monterey County, CA",2012,Barack Obama,67.1,Liberal/Progressive
+83,"Nevada County, CA",2012,Mitt Romney,48.4,"Conservative
+Party Affiliation"
+84,"Orange County, CA",2012,Mitt Romney,51.9,"Conservative
+Party Affiliation"
+85,"Placer County, CA",2012,Mitt Romney,58.3,"Conservative
+Party Affiliation"
+86,"Plumas County, CA",2012,Mitt Romney,56.9,"Conservative
+Party Affiliation"
+87,"Riverside County, CA",2012,Barack Obama,49.7,Liberal/Progressive
+88,"Sacramento County, CA",2012,Barack Obama,58.1,Liberal/Progressive
+89,"San Benito County, CA",2012,Barack Obama,59.2,Liberal/Progressive
+90,"San Bernardino County, CA",2012,Barack Obama,52.5,Liberal/Progressive
+91,"San Diego County, CA",2012,Barack Obama,52.6,Liberal/Progressive
+92,"San Joaquin County, CA",2012,Barack Obama,55.8,Liberal/Progressive
+93,"San Luis Obispo County, CA",2012,Barack Obama,48.8,Liberal/Progressive
+94,"San Mateo County, CA",2012,Barack Obama,72.1,Liberal/Progressive
+95,"Santa Barbara County, CA",2012,Barack Obama,57.6,Liberal/Progressive
+96,"Santa Clara County, CA",2012,Barack Obama,70.1,Liberal/Progressive
+97,"Santa Cruz County, CA",2012,Barack Obama,75.6,Liberal/Progressive
+98,"Shasta County, CA",2012,Mitt Romney,63.0,"Conservative
+Party Affiliation"
+99,"Sierra County, CA ",2012,Mitt Romney,58.8,"Conservative
+Party Affiliation"
+100,"Siskiyou County, CA",2012,Mitt Romney,55.6,"Conservative
+Party Affiliation"
+101,"Solano County, CA",2012,Barack Obama,63.5,Liberal/Progressive
+102,"Sonoma County, CA",2012,Barack Obama,71.1,Liberal/Progressive
+103,"Stanislaus County, CA",2012,Barack Obama,50.0,Liberal/Progressive
+104,"Sutter County, CA",2012,Mitt Romney,58.4,"Conservative
+Party Affiliation"
+105,"Tehama County, CA",2012,Mitt Romney,62.0,"Conservative
+Party Affiliation"
+106,"Trinity County, CA",2012,Mitt Romney,47.9,"Conservative
+Party Affiliation"
+107,"Tulare County, CA",2012,Mitt Romney,56.3,"Conservative
+Party Affiliation"
+108,"Tuolumne County, CA",2012,Mitt Romney,56.2,"Conservative
+Party Affiliation"
+109,"Ventura County, CA",2012,Barack Obama,52.3,Liberal/Progressive
+110,"Yolo County, CA",2012,Barack Obama,65.4,Liberal/Progressive
+111,"Yuba County, CA",2012,Mitt Romney,57.2,"Conservative
+Party Affiliation"
