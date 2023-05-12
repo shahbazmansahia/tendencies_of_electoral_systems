@@ -1,0 +1,193 @@
+,Counties,Year,time_period
+0,Colusa County (5 YR),2016,5Y
+1,Colusa County (5 YR),2012,5Y
+2,"Glenn County, CA",2016,5Y
+3,"Glenn County, CA",2012,5Y
+4,Del Norte County (5 YR),2016,5Y
+5,Del Norte County (5 YR),2012,5Y
+6,Fresno County,2016,1Y
+7,Fresno County,2012,1Y
+8,Fresno County,2012,5Y
+9,Fresno County,2016,5Y
+10,"Humboldt County, CA",2016,1Y
+11,"Humboldt County, CA",2012,1Y
+12,"Humboldt County, CA",2016,5Y
+13,"Humboldt County, CA",2012,5Y
+14,"Inyo County, CA",2016,5Y
+15,"Inyo County, CA",2012,5Y
+16,"Kern County, CA",2016,1Y
+17,"Kern County, CA",2012,1Y
+18,"Kern County, CA",2012,5Y
+19,"Kern County, CA",2016,5Y
+20,Contra Costa County,2016,1Y
+21,Contra Costa County,2012,1Y
+22,Contra Costa County,2015,5Y
+23,Contra Costa County,2012,5Y
+24,El Dorado County,2016,1Y
+25,El Dorado County,2016,5Y
+26,El Dorado County,2012,1Y
+27,El Dorado County,2012,5Y
+28,"Imperial County, CA",2012,5Y
+29,"Imperial County, CA",2012,1Y
+30,"Imperial County, CA",2016,5Y
+31,"Imperial County, CA",2016,1Y
+32,Calaveras County (5 YR),2016,5Y
+33,Calaveras County (5 YR),2012,5Y
+34,Kings county,2016,1Y
+35,Kings county,2012,1Y
+36,Kings county,2016,5Y
+37,Kings county,2012,5Y
+38,Amador County (5 YR),2016,5Y
+39,Amador County (5 YR),2012,5Y
+40,Butte County,2012,1Y
+41,Butte County,2012,5Y
+42,Butte County,2016,1Y
+43,Butte County,2016,5Y
+44,Alameda County,2012,1Y
+45,Alameda County,2012,5Y
+46,Alameda County,2016,1Y
+47,Alameda County,2016,5Y
+48,Alpine County (5 YR),2016,5Y
+49,Alpine County (5 YR),2012,5Y
+50,"Merced County, CA",2016,1Y
+51,"Merced County, CA",2012,1Y
+52,"Merced County, CA",2016,5Y
+53,"Merced County, CA",2012,5Y
+54,"Mono County, CA",2012,5Y
+55,"Mono County, CA",2016,5Y
+56,"Mariposa County, CA",2012,5Y
+57,"Mariposa County, CA",2012,5Y
+58,"Madera County, CA",2016,1Y
+59,"Madera County, CA",2012,1Y
+60,"Madera County, CA",2016,5Y
+61,"Madera County, CA",2012,5Y
+62,"Lake County, CA",2016,1Y
+63,"Lake County, CA",2012,1Y
+64,"Lake County, CA",2016,5Y
+65,"Lake County, CA",2012,5Y
+66,"Marin County, CA",2016,1Y
+67,"Marin County, CA",2016,5Y
+68,"Marin County, CA",2012,1Y
+69,"Marin County, CA",2012,5Y
+70,"Mendocino County, CA",2016,1Y
+71,"Mendocino County, CA",2012,1Y
+72,"Mendocino County, CA",2016,5Y
+73,"Mendocino County, CA",2012,5Y
+74,"Modoc County, CA",2012,5Y
+75,"Modoc County, CA",2016,5Y
+76,"Los Angeles County, CA",2016,1Y
+77,"Los Angeles County, CA",2012,1Y
+78,"Los Angeles County, CA",2016,5Y
+79,"Los Angeles County, CA",2012,5Y
+80,"Lassen County, CA",2016,5Y
+81,"Lassen County, CA",2012,5Y
+82,"Sacramento County, CA",2016,1Y
+83,"Sacramento County, CA",2012,1Y
+84,"Sacramento County, CA",2016,5Y
+85,"Sacramento County, CA",2012,5Y
+86,"San Diego County, CA",2016,1Y
+87,"San Diego County, CA",2012,1Y
+88,"San Diego County, CA",2016,5Y
+89,"San Diego County, CA",2012,5Y
+90,"San Bernardino County, CA",2016,1Y
+91,"San Bernardino County, CA",2012,1Y
+92,"San Bernardino County, CA",2016,5Y
+93,"San Bernardino County, CA",2012,5Y
+94,"Placer County, CA",2016,1Y
+95,"Placer County, CA",2012,1Y
+96,"Placer County, CA",2016,5Y
+97,"Placer County, CA",2012,5Y
+98,"Riverside County, CA",2016,1Y
+99,"Riverside County, CA",2012,1Y
+100,"Riverside County, CA",2016,5Y
+101,"Riverside County, CA",2012,5Y
+102,"Plumas County, CA",2016,5Y
+103,"Plumas County, CA",2012,5Y
+104,"Monterey County, CA",2012,1Y
+105,"Monterey County, CA",2012,1Y
+106,"Monterey County, CA",2016,5Y
+107,"Monterey County, CA",2012,5Y
+108,"San Benito County, CA",2016,5Y
+109,"San Benito County, CA",2012,5Y
+110,"Orange County, CA",2016,1Y
+111,"Orange County, CA",2012,1Y
+112,"Orange County, CA",2016,5Y
+113,"Orange County, CA",2012,5Y
+114,"Nevada County, CA",2016,1Y
+115,"Nevada County, CA",2012,1Y
+116,"Nevada County, CA",2016,5Y
+117,"Nevada County, CA",2012,5Y
+118,"Santa Barbara County, CA",2016,5Y
+119,"Santa Barbara County, CA",2016,1Y
+120,"Santa Barbara County, CA",2012,1Y
+121,"Santa Barbara County, CA",2012,5Y
+122,"San Mateo County, CA",2016,1Y
+123,"San Mateo County, CA",2016,5Y
+124,"San Mateo County, CA",2012,1Y
+125,"San Mateo County, CA",2012,5Y
+126,"San Luis Obispo County, CA",2016,1Y
+127,"San Luis Obispo County, CA",2012,1Y
+128,"San Luis Obispo County, CA",2016,5Y
+129,"San Luis Obispo County, CA",2012,5Y
+130,"Solano County, CA",2016,1Y
+131,"Solano County, CA",2016,5Y
+132,"Solano County, CA",2012,1Y
+133,"Solano County, CA",2012,5Y
+134,"Sierra County, CA ",2012,5Y
+135,"Sierra County, CA ",2016,5Y
+136,"San Joaquin County, CA",2016,1Y
+137,"San Joaquin County, CA",2012,1Y
+138,"San Joaquin County, CA",2016,5Y
+139,"San Joaquin County, CA",2016,5Y
+140,"Santa Cruz County, CA",2016,1Y
+141,"Santa Cruz County, CA",2016,5Y
+142,"Santa Cruz County, CA",2012,1Y
+143,"Santa Cruz County, CA",2012,5Y
+144,"Shasta County, CA",2016,5Y
+145,"Shasta County, CA",2012,1Y
+146,"Shasta County, CA",2012,5Y
+147,"Shasta County, CA",2016,1Y
+148,"Siskiyou County, CA",2012,5Y
+149,"Siskiyou County, CA",2016,5Y
+150,"Santa Clara County, CA",2016,1Y
+151,"Santa Clara County, CA",2016,5Y
+152,"Santa Clara County, CA",2012,1Y
+153,"Santa Clara County, CA",2012,1Y
+154,"Tulare County, CA",2016,1Y
+155,"Tulare County, CA",2012,1Y
+156,"Tulare County, CA",2016,5Y
+157,"Tulare County, CA",2012,5Y
+158,"Trinity County, CA",2016,5Y
+159,"Trinity County, CA",2012,5Y
+160,"Tuolumne County, CA",2016,5Y
+161,"Tuolumne County, CA",2012,5Y
+162,"Yolo County, CA",2016,1Y
+163,"Yolo County, CA",2012,1Y
+164,"Yolo County, CA",2016,5Y
+165,"Yolo County, CA",2012,5Y
+166,"Sutter County, CA",2016,1Y
+167,"Sutter County, CA",2012,1Y
+168,"Sutter County, CA",2016,5Y
+169,"Sutter County, CA",2012,5Y
+170,"Tehama County, CA",2016,5Y
+171,"Tehama County, CA",2012,5Y
+172,"Stanislaus County, CA",2016,1Y
+173,"Stanislaus County, CA",2012,1Y
+174,"Stanislaus County, CA",2016,5Y
+175,"Stanislaus County, CA",2012,5Y
+176,"Sonoma County, CA",2016,1Y
+177,"Sonoma County, CA",2012,1Y
+178,"Sonoma County, CA",2016,5Y
+179,"Sonoma County, CA",2012,5Y
+180,"Ventura County, CA",2016,1Y
+181,"Ventura County, CA",2012,1Y
+182,"Ventura County, CA",2012,5Y
+183,"Ventura County, CA",2016,5Y
+184,"Yuba County, CA",2012,1Y
+185,"Yuba County, CA",2016,1Y
+186,"Yuba County, CA",2016,5Y
+187,"Yuba County, CA",2012,5Y
+188,San Francisco County,2016,1Y
+189,San Francisco County,2012,1Y
+190,San Francisco County,2012,5Y
+191,San Francisco County,2016,5Y
